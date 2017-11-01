@@ -1,0 +1,9 @@
+sample/camel/domain/Student.class
+sample/camel/SampleBean.class
+sample/camel/ArrayListAggregator.class
+sample/camel/SampleCamelApplication.class
+sample/camel/CompletionTestRouter$1.class
+sample/camel/processor/StudentListProcessor.class
+sample/camel/SampleFileRouter.class
+sample/camel/SampleCamelRouter.class
+sample/camel/CompletionTestRouter.class
